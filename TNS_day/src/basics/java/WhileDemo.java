@@ -1,5 +1,5 @@
 //Program to demonstrate  while do loop
-package day1.basics;
+package basics.java;
 
 public class WhileDemo {
 	public static void main(String[] args) 

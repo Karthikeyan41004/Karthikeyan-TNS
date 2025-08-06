@@ -1,5 +1,5 @@
 //Program to demonstrate decision making operators
-package day1.basics;
+package basics.java;
 
 public class DecisionMakingWithOperators {
 	public static void main(String[] args) {

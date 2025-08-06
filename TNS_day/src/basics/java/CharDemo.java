@@ -1,5 +1,5 @@
 //program to demonstrate char data type
-package day1.basics;
+package basics.java;
 
 public class CharDemo {
 	public static void main(String[] args) {

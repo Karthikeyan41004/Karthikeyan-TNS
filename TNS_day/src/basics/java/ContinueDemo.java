@@ -1,5 +1,5 @@
 //Program to demonstrate  continue statement
-package day1.basics;
+package basics.java;
 
 public class ContinueDemo {
 	public static void main(String[] args) {

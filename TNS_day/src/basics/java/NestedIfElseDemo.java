@@ -1,4 +1,4 @@
-package day1.basics;
+package basics.java;
 
 public class NestedIfElseDemo {
 

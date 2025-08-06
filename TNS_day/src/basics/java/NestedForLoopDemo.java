@@ -1,5 +1,5 @@
 //Program to demonstrate nested loops
-package day1.basics;
+package basics.java;
 
 
 

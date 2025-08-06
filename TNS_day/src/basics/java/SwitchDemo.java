@@ -1,5 +1,5 @@
 //Program to demonstrate Switch case
-package day1.basics;
+package basics.java;
 
 
 public class SwitchDemo 

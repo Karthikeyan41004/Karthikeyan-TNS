@@ -1,5 +1,5 @@
 //Program to guess a number in a given range
-package day1.basics;
+package basics.java;
 
 public class IfDemo {
 

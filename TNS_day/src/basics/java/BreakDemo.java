@@ -1,5 +1,5 @@
 //Program to demonstrate  break statement
-package day1.basics;
+package basics.java;
 
 public class BreakDemo {
 	public static void main(String[] args) {

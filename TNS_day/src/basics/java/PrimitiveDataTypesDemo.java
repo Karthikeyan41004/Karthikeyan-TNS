@@ -1,5 +1,5 @@
 //Program to demonstrate data types 
-package day1.basics;
+package basics.java;
 
 public class PrimitiveDataTypesDemo {
 
