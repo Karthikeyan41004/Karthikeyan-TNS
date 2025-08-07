@@ -8,6 +8,7 @@ public class NestedIfElseDemo {
 		if (a > b) {
 			if (a > c){
 				System.out.println(a);
+			}
 			else
 				System.out.println(c);
 		} else {
