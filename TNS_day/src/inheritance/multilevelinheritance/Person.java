@@ -7,7 +7,7 @@ public class Person {
 	private String name;
 	private long conatctNo;
 	private Date dateOfBirth;
-
+// constructor
 	public Person(String name, long conatctNo, Date dateOfBirth) {
 		super();
 		this.name = name;
