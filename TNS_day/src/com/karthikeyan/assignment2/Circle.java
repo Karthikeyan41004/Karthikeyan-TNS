@@ -1,0 +1,32 @@
+package com.karthikeyan.assignment2;
+import java.util.Scanner;
+public class Circle {
+	 
+	    private double radius;
+	    private String colour;
+	    
+	    public void getInput() {
+	        Scanner scanner = new Scanner(System.in);
+	        
+	        System.out.print("Enter the radius of the circle: ");
+	        radius = scanner.nextDouble();
+	        
+	        System.out.print("Enter the colour of the circle: ");
+	        colour = scanner.next();
+	        
+	        scanner.close();
+	    }
+
+	    public void calcArea() {
+	        double area = Math.PI * radius * radius;
+	        System.out.println("The area of the circle with radius " + radius + " and colour " + colour + " is: " + area);
+	    }
+	    
+	    public static void main(String[] args) {
+	        Circle circle = new Circle();
+	        circle.getInput();
+	        circle.calcArea();
+	    }
+	}
+
+
